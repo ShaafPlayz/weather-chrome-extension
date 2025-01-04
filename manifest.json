@@ -1,0 +1,9 @@
+{
+  "manifest_version": 3,
+  "name": "Weather Extension",
+  "description": "Tells you your current weather based on your location.",
+  "version": "1.0",
+  "action": {
+    "default_popup" : "index.html"
+  }
+}

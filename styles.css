@@ -1,0 +1,37 @@
+body {
+    width:300px;
+    height: 150px;
+    display: flex;
+    flex-direction: row;
+    margin: 0;
+}
+.right {
+    width:30%;
+    background-color: #1c1c1c;
+}
+.left {
+    background-color: darkblue;
+    width:70%;
+}
+.temp {
+    font-size: 43px;
+    text-align: center;
+    color: white;
+}
+
+.loco {
+    font-family: "Futura Md BT";
+    text-align: center;
+    border-radius: 5px;
+    margin-left: 2%;
+    margin-top: 2%;
+    width: 87%;
+    height: 30px;
+    background-color: #1c1c1c;
+}
+.location {
+    color: white;
+    font-family: "Futura Md BT";
+    width: 100%;
+    text-align: center;
+}
